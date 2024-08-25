@@ -1,0 +1,10 @@
+{
+  "id": "deskai-plugin-template",
+  "name": "DeskAI Plugin Template",
+  "version": "1.0.0",
+  "description": "A DeskAI plugin tedmplate.",
+  "author": "DeskAI",
+  "authorUrl": "https://deskai.app",
+  "fundingUrl": "https://deskai.app/pricing",
+  "worker": "dist/index.js"
+}
